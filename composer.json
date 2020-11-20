@@ -1,0 +1,16 @@
+{
+    "name": "cmcintosh/OpenAI",
+    "type": "library",
+    "description": "PHP Library for OpenAI GPLv3",
+    "keywords": ["relevant","tags","go","here"],
+    "homepage": "https://www.wembassy.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chris McIntosh",
+            "email": "cmcintosh@wembassy.com",
+            "homepage": "https://www.wembassy.com",
+            "role": "Developer"
+        }
+    ],
+}
